@@ -65,6 +65,9 @@ Resume Upload & Job Description Input
 Ranking Results
 ![Ranking Results](Snapshots/Rank.png)
 
+### 🎥 Demo Videos
+📌 [Demo - Local Execution](https://drive.google.com/file/d/1BmvIo-14q3jWldf30FGGbivrQ8b3Haza/view?usp=sharing)  
+📌 [Demo - Streamlit Cloud](https://drive.google.com/file/d/18sntu1EwK3-DjowBk7y20EVgBpEQkEkb/view?usp=sharing)
 
 
 🔍 How It Works
